@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy WFH PUNE </h1>
+   <h1> Thankyou, Happy WFH MUMBAI </h1>
 
   
 </form>
